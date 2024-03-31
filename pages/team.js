@@ -48,6 +48,9 @@ const teamMembersData = {
   12: {
     src: '/team_pics_2024/2024-Fatimah.png',
   },
+  13: {
+    src: '/team_pics_2024/2024-Mahmoud.png',
+  },
   14: {
     src: '/team_pics_2024/2024-Seham.png',
   },
